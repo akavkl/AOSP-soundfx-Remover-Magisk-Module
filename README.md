@@ -11,7 +11,7 @@
 - https://t.me/androidryukimodsdiscussions/92
 
 ## Requirements
-- Magisk installed
+- Magisk or KernelSU installed
 
 ## Installation Guide & Download Link
 - Install this module https://www.pling.com/p/1531943/ via Magisk app or Recovery
