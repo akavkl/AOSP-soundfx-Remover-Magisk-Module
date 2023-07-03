@@ -14,7 +14,7 @@
 - Magisk or KernelSU installed
 
 ## Installation Guide & Download Link
-- Install this module https://www.pling.com/p/1531943/ via Magisk app or Recovery
+- Install this module https://github.com/akavkl/AOSP-soundfx-Remover-Magisk-Module/releases via Manager app or Recovery
 - This is also an audio mod so, you need to install AML Magisk Module https://t.me/androidryukimodsdiscussions/29836 if using any other audio mod module
 - Reboot
 - You can check is your AOSP soundfx removed or not via Terminal Emulator:
@@ -29,8 +29,7 @@
 - https://t.me/androidryukimodsdiscussions/29836
 
 ## Support & Bug Report
-- https://t.me/androidryukimodsdiscussions/2618 (Z folder is enough, no need logs)
-- If you don't do above, issues will be closed immediately
+- Create issue here
 
 ## Tested on
 - Android 10 CrDroid ROM
@@ -45,7 +44,7 @@
 - https://t.me/androidryukimodsdiscussions
 - You can contribute ideas about this Magisk Module here: https://t.me/androidappsportdevelopment
 
-## Thanks for Donations
+## Go donate to original author
 - This Magisk Module is always will be free but you can however show us that you are care by making a donations:
 - https://ko-fi.com/reiryuki
 - https://www.paypal.me/reiryuki
